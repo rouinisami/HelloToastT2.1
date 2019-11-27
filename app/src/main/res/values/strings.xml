@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="butoast">Toast</string>
+    <string name="bucount">Count</string>
+    <string name="coalue">0</string>
+    <string name="tmessage">Hello Toast!</string>
+    <string name="say_hello">SAY HELLO</string>
+    <string name="hello">Hello !</string>
+</resources>

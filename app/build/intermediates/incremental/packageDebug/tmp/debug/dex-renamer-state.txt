@@ -1,0 +1,4 @@
+#Wed Nov 27 16:18:36 EST 2019
+base.0=/root/Desktop/Himo/android-fundamentals-exycodelabs-master/HelloToast/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
